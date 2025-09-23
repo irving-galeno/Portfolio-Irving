@@ -49,7 +49,7 @@ header {
 }
 
 .logo .realce {
-  color: #ff00c8;
+  color: #08316f;
 }
 
 /* Navegação padrão (desktop) */
@@ -73,7 +73,7 @@ header {
   left: 0;
   width: 0%;
   height: 2px;
-  background-color: #ff00c8;
+  background-color: #0c4d4a;
   transition: width 0.3s ease;
 }
 
@@ -82,7 +82,7 @@ header {
 }
 
 .navbar a:hover {
-  color: #ff00c8;
+  color: #082725;
 }
 
 /* Ícone do menu mobile */
@@ -151,8 +151,8 @@ header {
   width: 180px;
   height: 180px;
   border-radius: 50%;
-  border: 5px solid #ff00c8;
-  box-shadow: 0 0 25px #ff00c888;
+  border: 5px solid #082725;
+  box-shadow: 0 0 25px #082725;
   object-fit: cover;
 }
 
@@ -165,7 +165,7 @@ header {
   font-family: "Bitcount", system-ui;
   font-weight: 500;
   font-size: 3rem;
-  color: #ff00c8;
+  color: #082725;
 }
 
 .hero-text h2,
@@ -189,7 +189,7 @@ header {
 }
 
 .btn-primary:hover {
-  background-color: #ff00c8;
+  background-color: #082725;
 }
 
 /* Hero responsivo */
@@ -362,7 +362,7 @@ header {
 }
 
 .projeto-card .btns a:hover {
-  background-color: #ff00c8;
+  background-color: #082725;
 }
 
 /* Card de contato com links sociais */
@@ -403,7 +403,7 @@ header {
 }
 
 .btn-social:hover {
-  background-color: #ff00c8;
+  background-color: #082725;
   color: #fff;
 }
 
