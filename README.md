@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌸 Portfolio Template - @yasmndev
 
 Este é um template de portfólio desenvolvido com HTML e CSS — pensado especialmente para quem está começando na área tech e quer ter um espaço bonito pra mostrar suas habilidades e projetos.
@@ -66,3 +67,6 @@ Desenvolvedora front-end criando projetos com propósito e interfaces que fazem 
 ---
 
 Sinta-se livre pra usar, remixar e aprender com ele! Se quiser me marcar quando usar, vou amar ver 🤍
+=======
+# portifolio
+>>>>>>> d77fb2c095e40c3b5e5b0664dccecef52de34b27
